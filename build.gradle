@@ -43,8 +43,6 @@ dependencies {
     testRuntime "org.hamcrest:SelfDescribing:1.+"
     compile files('path/to/archive.jar')
     compile fileTree(dir: 'path/to/libs', include: '*.jar')
-	
-	compile group: 'io.spring.gradle', name: 'dependency-management-plugin', version: '1.0.3.RELEASE'
 
     compile "org.springframework.boot:spring-boot-starter-data-jpa"
     compile "org.springframework.boot:spring-boot-starter-web"
