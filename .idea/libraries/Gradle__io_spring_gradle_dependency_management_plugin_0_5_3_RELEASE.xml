@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.spring.gradle:dependency-management-plugin:0.5.3.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/0.5.3.RELEASE/289f2d2c5de1237f5d15a0f460354236f33b25a/dependency-management-plugin-0.5.3.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/0.5.3.RELEASE/11878c02e76ea1dc976fa35ca1ab0178f553db35/dependency-management-plugin-0.5.3.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/0.5.3.RELEASE/c82009a02af581a90ecbcf35a2b423491ea03258/dependency-management-plugin-0.5.3.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
